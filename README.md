@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Nivaldo Junior!
- <div>
+
+- 🔭 Atualmente Estagiario na Empresa Unimed Patos de Minas
+- 🌱 Estudando Python
+- 😄 Fã de Berserk!
+
+<div>
   <a href="https://github.com/Nivaldotk">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nivaldotk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivaldotk&layout=compact&langs_count=7&theme=dracula"/>
