@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente Estagiario na Empresa Unimed Patos de Minas
 - 🌱 Estudando Python
-- 😄 Fã de Berserk!
 
 <div>
   <a href="https://github.com/Nivaldotk">
