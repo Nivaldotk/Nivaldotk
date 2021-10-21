@@ -15,7 +15,7 @@
   <img align="center" alt="Tk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tk-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Tk-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Tk-Linux" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">>
+  <img align="center" alt="Tk-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   <img align="right" alt="Tk-yoda" src="https://media.discordapp.net/attachments/269247836992962562/874665165205950524/download20210802113343.png?width=350&height=350">
 </div>
   
