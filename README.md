@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Nivaldo Junior!
 
 - 🔭 Atualmente Trabalhando na Empresa Unimed Patos de Minas
-- 🌱 Estudando Python
+- 🌱 Programador Full Stack
+      Especialidades: Python/Django, GitHub, Linux
 
 <div>
   <a href="https://github.com/Nivaldotk">
