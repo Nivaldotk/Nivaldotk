@@ -16,7 +16,8 @@
   <img align="center" alt="Tk-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Tk-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Tk-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-  <img align="right" alt="Tk-yoda" src="https://media.discordapp.net/attachments/269247836992962562/874665165205950524/download20210802113343.png?width=350&height=350">
+  <img align="right" alt="Tk-yoda" src="![image](https://user-images.githubusercontent.com/67606471/151549712-23fc007f-3332-4814-841b-f118341863fb.png)
+">
 </div>
   
   ##
