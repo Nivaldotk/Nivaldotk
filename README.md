@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nivaldo Junior!
 
-- 🔭 Atualmente Estagiario na Empresa Unimed Patos de Minas
+- 🔭 Atualmente Trabalhando na Empresa Unimed Patos de Minas
 - 🌱 Estudando Python
 
 <div>
