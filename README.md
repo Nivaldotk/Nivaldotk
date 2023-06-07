@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente Trabalhando como Estagiario na Empresa PRODEMGE
 - 🌱 Programador Full Stack
-      Especialidades: Python, Java, ZK Framword Vue.JS e Linux
+      Especialidades: Python, Java, ZK Framework, Vue.JS e Linux
 
 <div>
   <a href="https://github.com/Nivaldotk">
