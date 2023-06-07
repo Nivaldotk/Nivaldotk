@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Nivaldo Junior!
 
-- 🔭 Atualmente Trabalhando na Empresa Unimed Patos de Minas
+- 🔭 Atualmente Trabalhando como Estagiario na Empresa PRODEMGE
 - 🌱 Programador Full Stack
-      Especialidades: Python/Django, GitHub, Linux
+      Especialidades: Python, Java, ZK Framword Vue.JS e Linux
 
 <div>
   <a href="https://github.com/Nivaldotk">
