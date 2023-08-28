@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Nivaldo Junior!
 
-- 🔭 Atualmente Trabalhando como Estagiario na Empresa PRODEMGE
+- 🔭 Atualmente Trabalhando como Estagiario na Empresa Fepam Universidade Unipam
 - 🌱 Programador Full Stack
-      Especialidades: Python, Java, ZK Framework, Vue.JS e Linux
+      Especialidades:Programador Full Stack
+      Especialidades: Python, Java, C#, Vue.JS Next.Js, React, Node.Js e Linux
 
 <div>
   <a href="https://github.com/Nivaldotk">
